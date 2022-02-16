@@ -19,8 +19,8 @@ And navigate to
 http://localhost:3000
 ```
 ## See it Now
-Visit "https://protected-oasis-63922.herokuapp.com/"
+Visit "https://frozen-sierra-25757.herokuapp.com/"
 
 # Preview
-![This is an image](/Blogv2preview.png)
+![This is an image](/todolist1preview.png)
 
